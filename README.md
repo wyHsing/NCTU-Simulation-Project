@@ -17,7 +17,7 @@
 
 ------------
 ## 系統流程
-<img src="http://imgur.com/a/S1V8S" />
+<img src="http://imgur.com/nhsgfgc" />
 
 ------------
 ## 目前進度
