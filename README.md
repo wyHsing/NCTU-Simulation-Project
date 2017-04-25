@@ -17,7 +17,7 @@
 
 ------------
 ## 系統流程
-<img src="http://imgur.com/nhsgfgc" />
+<img src="http://i.imgur.com/nhsgfgc.png" />
 
 ------------
 ## 目前進度
