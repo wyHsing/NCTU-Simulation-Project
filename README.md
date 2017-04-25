@@ -2,7 +2,7 @@
 
 #### 火災模擬系統與機器人對逃生的影響
 ------------
-<img src="http://i.imgur.com/uO57XF4.png" width="500"/> <img src="http://i.imgur.com/8looifa.png" width="500"/> 
+<img src="http://i.imgur.com/uO57XF4.png" width="400"/> <img src="http://i.imgur.com/8looifa.png" width="400"/> 
 
 ------------
 ## 摘要
